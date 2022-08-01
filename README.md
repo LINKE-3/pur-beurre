@@ -1,6 +1,6 @@
 # pur-beurre
 
-Ce site permet de chercher des aliments, et de trouver des substituts meilleurs et les enregistrer.
+Ce site permet de chercher des aliments, et de trouver des substituts meilleurs et les enregistrés.
 
 ### pour le tester : 
 
