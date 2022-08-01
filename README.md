@@ -10,4 +10,8 @@ Dirriger vous avec votre invite de commande dans le dossier "django-web-app" et 
 
 Charger les données de l'api openff avec la commande: `python merchex/manage.py load_data (nombre de produits par catégories)`
 
-utiliser,  `Python purbeurre/manage.py runserver` pour lancer le site.
+utiliser,  `Python merchex/manage.py runserver` pour lancer le site.
+
+### Tests unitaire :
+
+`Python purbeurre/manage.py test listings`
