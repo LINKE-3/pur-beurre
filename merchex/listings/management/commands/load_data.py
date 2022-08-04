@@ -4,6 +4,7 @@ from listings.models import Category, Product
 from listings.data_config import CATEGORIES
 from listings.classes.api_off import ApiOff
 
+
 class Command(BaseCommand):
     help = 'Populate our Product Database with data from OpenFoodFact'
 
