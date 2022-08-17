@@ -15,3 +15,6 @@ utiliser,  `Python merchex/manage.py runserver` pour lancer le site.
 ### Tests unitaire :
 
 `Python merchex/manage.py test listings`
+
+### Tests coverage :
+`coverage run merchex/manage.py test listings && coverage report`
