@@ -14,4 +14,4 @@ utiliser,  `Python merchex/manage.py runserver` pour lancer le site.
 
 ### Tests unitaire :
 
-`Python purbeurre/manage.py test listings`
+`Python merchex/manage.py test listings`
